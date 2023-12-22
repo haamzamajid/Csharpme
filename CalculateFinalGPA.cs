@@ -1,7 +1,8 @@
-gg
+
 int gradeA = 4;
 int gradeB = 3;
 int grade = 6;
+int grade = 1;
 
 int course1Grade = gradeA;
 int course2Grade = gradeB;
