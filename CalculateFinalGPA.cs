@@ -10,11 +10,19 @@ int course3Grade = gradeB;
 int course4Grade = gradeB;
 int course5Grade = gradeA;
 
-string course1Name = "Math101";
-string course2Name = "French101";
-string course3Name = "Deutsch101";
-string course4Name = "Java101";
-string course5Name = "SQL101";
+string studentName = "Sophia Johnson";
+string course1Name = "English 101";
+string course2Name = "Algebra 101";
+string course3Name = "Biology 101";
+string course4Name = "Computer Science I";
+string course5Name = "Psychology 101";
+
+int course1Credit = 3;
+int course2Credit = 3;
+int course3Credit = 4;
+int course4Credit = 4;
+int course5Credit = 3;
+
 
 
 Console.WriteLine($"{course1Name} {course1Grade}");
